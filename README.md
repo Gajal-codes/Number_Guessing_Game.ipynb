@@ -1,24 +1,44 @@
 
-🎮 Number Guessing Game – Python Mini Project
+# 🎯 Number Guessing Game – Python Mini Project
 
-This is a beginner-friendly Python project where the user is challenged to guess a randomly generated number. The game provides feedback like "Too High" or "Too Low" until the correct number is guessed.
+This is a beginner-level Python project where the user guesses a randomly generated number between a fixed range. The program gives hints like "Too High" or "Too Low" until the correct number is guessed.
 
-🧠 Features:
-- Random number generation using `random` module
-- Loop and conditional logic
-- User input handling
-- Custom number range (e.g., 1 to 100)
-- Playful and interactive experience
+---
 
-🔧 Technologies Used:
+## 📸 Code Screenshot
+Since I faced issues uploading the `.py` file due to a GitHub page error, here is the complete code in image form:
+
+![Number Guessing Game Code](number_guessing_game_code.png)
+
+---
+
+## 💡 Features:
+- Uses Python’s `random` module
+- Interactive command-line interface
+- Customizable number range
+- Clear win/lose logic
+- Great for practicing `while` loops and `if-else` statements
+
+---
+
+## 📂 Project Status:
+✅ Completed  
+🧠 Built as part of my internship & Python project portfolio
+
+---
+
+## 🔧 Technologies Used:
 - Python 3.x
-- Built-in `random` module
+- Built-in modules only
 
-💡 What I Learned:
-This project helped me strengthen my understanding of basic Python concepts like loops, conditionals, and user input. It's a great entry-level game for new programmers.
+---
 
-📂 File Name:
-`number_guessing_game.py`
+## ✨ What I Learned:
+- Looping logic
+- User input handling
+- Building fun, interactive CLI projects
 
-📌 Status: ✅ Completed  
-📎 Note: Uploaded to GitHub as part of my Python internship/project portfolio.
+---
+
+## 🔗 Note:
+The `.py` version of this file will be uploaded as soon as the GitHub server issue is resolved.
